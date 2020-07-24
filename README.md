@@ -1,0 +1,1 @@
+simple boilerplate for react
